@@ -1,6 +1,6 @@
 # A factory to omit react props by propTypes
 
-A case is when you don't have destruction in class render method and want to keep in clean and readable.
+A case is when you don't have destruction in class render method and want to keep it clean and readable.
 
 ```javascript
 import makeOmitter from 'react-omit-own-props';
